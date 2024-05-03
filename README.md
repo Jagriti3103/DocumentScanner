@@ -18,3 +18,4 @@ Google ML Kit: Leverage ML Kit's Text Recognition API for on-device text extract
 Android Studio: Develop the app using Android Studio, the official integrated development environment (IDE) for Android app development.
 Getting Started:
 
+APK FILE : https://drive.google.com/file/d/1c546Ghqhrgf_ZAt46EGQ2RTey0cWEMux/view?usp=sharing
